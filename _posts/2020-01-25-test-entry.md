@@ -5,4 +5,4 @@ date: 2020-01-25
 ---
 
 You found my secret blog page. Well, I'll write something someday.
-For now, [Here's](https://github.com/oysterbank) a link to my github profile. Go poke around.
+For now, [here's](https://github.com/oysterbank) a link to my github profile. Go poke around.
