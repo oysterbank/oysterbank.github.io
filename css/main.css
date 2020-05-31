@@ -27,3 +27,7 @@ ul.posts li { list-style: none; }
 /* .cv address, .cv .download { } */
 .cv address, .cv p { font-size: 1.2em; }
 .cv .download { float: right; font-size: .8em; text-transform: uppercase; }
+
+#landing-content {
+    padding: 40px;
+}
