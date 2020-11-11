@@ -1,4 +1,4 @@
-body { margin: 60px auto; width: 70%; font-family: 'Roboto', sans-serif; }
+body { margin: 60px auto; width: 70%; font-family: 'Roboto', sans-serif; border-width: 20px; border-color: white; background: #daded4;}
 
 a { text-decoration: none; color: #999; }
 a:hover { text-decoration: underline; }
