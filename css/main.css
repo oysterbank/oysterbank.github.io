@@ -44,6 +44,14 @@ ul.posts li { list-style: none; }
 .cv address, .cv p { font-size: 1.2em; }
 .cv .download { float: right; font-size: .8em; text-transform: uppercase; }
 
+.footer-link {
+    border-style: solid;
+    border-color: #39603D;
+    color: #39603D;
+    padding: 5px;
+    font-weight: bold;
+}
+
 #landing-content {
     margin-top: 40px;
     margin-bottom: 40px;
