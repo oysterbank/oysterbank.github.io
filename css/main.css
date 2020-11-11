@@ -1,4 +1,15 @@
-body { margin: 60px auto; width: 70%; font-family: 'Roboto', sans-serif; border-width: 20px; border-color: white; background: #daded4;}
+body { 
+    margin-top: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    padding: 20px;
+    font-family: 'Roboto', sans-serif;
+    border-width: 20px;
+    border-style: solid;
+    border-color: white;
+    background: #daded4;
+}
 
 a { text-decoration: none; color: #999; }
 a:hover { text-decoration: underline; }
