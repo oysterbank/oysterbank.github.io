@@ -1,14 +1,14 @@
-body { margin: 60px auto; width: 70%; font-family: 'Open Sans', 'Helvetica', 'Arial', 'Sans-Serif'; }
+body { margin: 60px auto; width: 70%; font-family: 'Roboto', sans-serif; }
 
 a { text-decoration: none; color: #999; }
 a:hover { text-decoration: underline; }
 
 p, ul { font-size: 1.3em; line-height: 1.4em; color: #333; }
 
-h1 { font-size: 3em; font-family: 'Nunito Sans', sans-serif; }
-h2 { font-size: 2.7em; font-family: 'Nunito Sans', sans-serif; }
-h3 { font-size: 2.3em; font-family: 'Nunito Sans', sans-serif; }
-h4 { font-size: 1.9em; font-family: 'Nunito Sans', sans-serif; }
+h1 { font-size: 3em; font-family: 'Alegreya Sans', sans-serif; }
+h2 { font-size: 2.7em; font-family: 'Alegreya Sans', sans-serif; }
+h3 { font-size: 2.3em; font-family: 'Alegreya Sans', sans-serif; }
+h4 { font-size: 1.9em; font-family: 'Alegreya Sans', sans-serif; }
 
 nav ul, footer ul { font-size: 1em; padding: 0px; list-style: none; font-weight: bold; }
 nav ul li, footer ul li { display: inline; margin-right: 20px; }
